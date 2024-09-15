@@ -1,0 +1,51 @@
+<html>
+<title> Roblox is the best </title>
+<h1>
+<head> Roblox </head> 
+</h1>
+<body> 
+<h1>
+Roblox Studio<br> 
+</h1>
+<h2>
+Roblox is a game creation platform which allows players to create their own games using its proprietary engine, Roblox Studio.<br> 
+Games are coded under an object oriented programming system utilizing the programming language Lua to manipulate the environment of the game.<br> 
+[3] Users are able to create game passes, which are purchasable content through one-time purchases, as well as microtransactions through developer products.<br> 
+ Developers on the site exchange Robux earned from various products on their games into real world currency through the Developer Exchange system.<br> 
+[4] A percentage of the revenue from purchases is split between the developer and Roblox.[5][6]<br> 
+</h2>
+<h1>
+Players<br> 
+</h1>
+<h2>
+Roblox allows players to buy, sell, and create virtual items. Clothes can be bought by anyone but only players with a Builders Club membership can sell them.<br> 
+[7] Only Roblox administrators can sell accessories, body parts, gear, and packages under the official Roblox user account.<br> 
+[8] Items with a limited status can only be sold on the catalog or traded with Builders Club.[9]Robux is the virtual currency in Roblox that allows players to buy <br> 
+various items. Players can obtain Robux through real life purchases, another player buying their items, or from earning daily Robux with a membership.[5][10]<br> 
+</h2>
+<h1>
+Events<br> 
+</h1>
+<h2>
+Roblox occasionally hosts real life and virtual events. One such event is their Developers Conference.[11] They hold virtual Easter egg hunt events annually <br> 
+and previously hosted events such as BloxCon.[5]<br> 
+</h2>
+<h1>
+Development<br> 
+</h1>
+<h2>
+The beta version of Roblox was created by co-founder David Baszucki in 2004.[12] Baszucki started testing the first demos that year.[13]<br> 
+
+In March 2007, Roblox became compliant with COPPA, with the addition of safe chat, a change that limited users under the age of thirteen to communicating by <br> 
+selecting predefined messages from a menu.[14] In August, Roblox added Builders Club, a premium membership, and applied server improvements.[15]<br> 
+
+In December 2011, Roblox held their first Hack Week, an annual event where Roblox developers work on innovative outside-the-box ideas for new developments <br> 
+to present to the company.[16][17]<br> 
+On December 11, 2012, Roblox released an iOS version of the game platform.[18]<br> 
+On October 1, 2013, Roblox released the Developer Exchange system, allowing developers to exchange Robux earned from their games into real world currency.[19]<br> 
+</h2>
+<script>
+alert("Error dont open this page again or you may get an virus")
+</script>
+</body>
+</html>

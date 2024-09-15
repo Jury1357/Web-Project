@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(159, 198, 233);
+    transition: opacity 0.5s ease-out;
+}
+
+.big {
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.bigger {
+    margin: 10% 35%;
+    border: 1px solid rgb(30, 46, 74);
+    background-color: rgb(90, 138, 183);
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    align-content: center;
+}
+
+img {
+    width: 100px;
+    height: 90px;
+}
+
+.link {
+    /* text-decoration: none; */
+    font-size: 18px;
+    padding-left: 20px;
+    color:rgb(30, 46, 74);
+
+}
+
+.fade-out {
+    opacity: 0;
+    visibility: hidden;
+}
+@media (max-width: 450px) {
+
+    .bigger {
+width:300px;
+height:350px;
+margin: 10% 14%;
+
+    }
+  
+}
+
+@media (max-width: 700px) {
+
+    .bigger {
+width:380px;
+height:400px;
+margin: 10% 20%;
+
+    }
+  
+}
