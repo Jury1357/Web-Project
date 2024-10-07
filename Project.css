@@ -11,43 +11,32 @@ html {
 }
 
 .biggestdivever {
-
     background-color: white;
-
 }
-
 #colorfixed {
     position: fixed;
     padding-left: 325px;
     padding-top: 25px;
 }
-
 :root {
     --primary-color: black;
     --secondary-color: rgba(235, 227, 227, 0.753);
     --tertiary-color: rgb(92, 191, 171);
     --quaternary-color: white;
-
     --accent-color: rgb(160, 154, 154);
 }
-
 .dark-theme {
-
     --primary-color: white;
     --secondary-color: black;
     --tertiary-color: black;
     --quaternary-color: black;
     --accent-color: black;
 }
-
 /* ////////////////////*/
 
 .item>a {
     text-decoration: none;
-
 }
-
-
 
 
 /* ////////////////////*/
@@ -56,12 +45,10 @@ html {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 900px;
-
 }
-
 .navbar {
     color: white;
-padding-right: 10px;
+    padding-right: 10px;
     display: flex;
     justify-content: space-between;
     background-color: blueviolet;
@@ -69,19 +56,13 @@ padding-right: 10px;
     width: 1520px;
     position: fixed;
 }
-
 .biglist {
     display: flex;
-
     padding-top: 10px;
 }
-
 .list {
     display: flex;
-
-
 }
-
 .list2 {
     /* justify-content: flex-end; */
     padding-top: 0;
@@ -90,7 +71,6 @@ padding-right: 10px;
     display: flex;
     gap: 15px;
 }
-
 .heading {
     align-items: center;
     justify-content: center;
@@ -99,9 +79,6 @@ padding-right: 10px;
     padding-top: 400px;
     font-style: bold;
 }
-
-
-
 .hepta {
     color: white;
     padding-left: 10px;
@@ -109,32 +86,25 @@ padding-right: 10px;
     padding-top: 10px;
     font-style: bold;
 }
-
 .img1 {
     width: 25px;
     height: 25px;
     cursor: pointer;
     padding-left: 5px;
-
 }
-
 #icon11 {
     width: 20px;
     height: 20px;
     cursor: pointer;
     display: none;
-
 }
-
 .mystyle {
     width: 200px;
     height: 300px;
     border: 10px black;
     background-color: brown;
 }
-
 .darkedit {
-    /* justify-content: space-around; */
     color: var(--quaternary-color);
 }
 
@@ -147,7 +117,6 @@ padding-right: 10px;
     padding-left: 250px;
     background-color: var(--quaternary-color);
 }
-
 .img2 {
     background-image: url("img_1_long.jpg (1).webp");
     background-size: 100% 100%;
@@ -155,81 +124,65 @@ padding-right: 10px;
     height: 500px;
     width: 500px;
 }
-
 .text {
     align-items: center;
     height: 450px;
     width: 450px;
 }
-
 .div2text {
     padding-top: 100px;
     font-weight: 300;
     font-size: 30px;
     color: var(--primary-color);
 }
-
 .secondpara {
     padding-top: 30px;
     color: var(--primary-color);
     font-size: 20px;
 }
-
 /* /////////////////HOVER ///////////////////*/
 .heading:hover {
     font-size: 150px;
     padding-top: 400px;
-
 }
-
 .box:hover {
     font-size: 22px;
-    /* cursor:default; */
     border: 1px solid var(--primary-color);
     padding: 10px;
     box-shadow: 5px 10px #888888;
 }
-
 .thirddivpara:hover {
     font-size: 29px;
     padding: 5px;
 }
-
 .fifthh1:hover {
     font-size: 100px;
     padding: 10px;
 }
-
 .fifthpara:hover {
     font-size: 22px;
     padding: 10px;
 }
-
 .fifthparagrah:hover {
     font-size: 17px;
     padding: 3px;
 }
-
 .sixthh1:hover {
     font-size: 80px;
     padding: 5px;
 }
-
 .box622:hover {
     font-size: 20px;
     padding: 5px;
 }
-
 .head71:hover {
     font-size: 70px;
     padding: 5px;
 }
-
 .para7:hover {
     font-size: 30px;
     padding: 5px;
 }
-
 .box7222:hover {
     font-size: 22px;
     border: 1px solid var(--primary-color);
@@ -237,60 +190,45 @@ padding-right: 10px;
     padding: 10px;
     box-shadow: 5px 7px #888888;
 }
-
 .text:hover {
     font-size: 22px;
     border: 1px solid var(--primary-color);
     padding: 10px;
     box-shadow: 5px 10px #bebdbd;
 }
-
 .thirddivh1:hover {
     font-size: 60px;
     border: 1px solid var(--primary-color);
     padding: 10px;
     box-shadow: 5px 10px #888888;
 }
-
 .head8:hover {
     font-size: 31px;
     border: 1px solid white;
     padding: 5px;
     box-shadow: 3px 7px #888888;
 }
-
 .head88:hover {
     font-size: 27px;
     padding: 4px;
-
 }
-
 .box811:hover {
     font-size: 22px;
     padding: 10px;
-
 }
-
 .box82:hover {
     font-size: 26px;
     padding: 10px;
-
 }
-
 #icon11:hover {
     width: 40px;
     height: 40px;
     padding: 7px;
-
 }
-
 .img1:hover {
     width: 40px;
     height: 40px;
-
     padding: 7px;
-   
-
 }
 
 /*div 3 //////////////////////////////////////*/
@@ -299,19 +237,16 @@ padding-right: 10px;
     padding: 100px;
     justify-content: center;
 }
-
 .thirddivpart2 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     padding: 20px;
 }
-
 .thirddivh1 {
     font-size: 45px;
     color: var(--primary-color);
 }
-
 .box1 {
     justify-content: center;
     grid-template-columns: max-content;
@@ -319,80 +254,58 @@ padding-right: 10px;
     width: 1000px;
     padding-left: 17.34%;
     padding-bottom: 30px;
-
 }
-
 .box {
     height: 300px;
     width: 330px;
     text-align: center;
     padding-left: 40px;
-
 }
-
 .thirddivpara {
     color: var(--primary-color);
     font-size: 20px;
     max-width: 1000px;
-
     color: var(--primary-color);
-
 }
-
 .txtdiv3 {
     font-weight: 500px;
     font-size: 40px;
     color: var(--primary-color);
-
 }
-
 .img3 {
     height: 60px;
     width: 60px;
 }
-
 .paradiv3 {
-
     font-size: 20px;
     color: var(--primary-color);
-
 }
-
-
 
 /*5th div/////////////////////////////////////*/
 .fifthdiv {
-
     background-color: var(--tertiary-color);
     padding-left: 20%;
     padding-right: 20%;
     padding-top: 13%;
     gap: 1.34%;
     padding-bottom: 13%;
-
 }
-
 .box2 {
     text-align: center;
     padding-right: 20px;
     /* width: 90%; */
     padding-bottom: 40px;
 }
-
 .boxcontainer {
     display: flex;
     gap: 20px;
-
-
 }
-
 .box3 {
     width: 300px;
     height: 450px;
     background-color: white;
     justify-content: space-around;
 }
-
 .img41 {
     background-image: url("slider-6.jpg.webp");
     background-size: 100% 100%;
@@ -400,39 +313,30 @@ padding-right: 10px;
     width: 300px;
     height: 240px;
 }
-
 .img42 {
     background-image: url("img_2.jpg.webp");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 300px;
     height: 240px;
-
 }
-
 .textonly {
     gap: 20px;
     padding-left: 15px;
-
 }
-
 .img43 {
     background-image: url("img_3.jpg.webp");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 300px;
     height: 240px;
-
 }
-
 .fifthpara {
-
     text-align: center;
     font-size: 15px;
     color: white;
     padding-left: 6.6%;
 }
-
 .fifthh1 {
     text-align: center;
     font-weight: 600;
@@ -440,45 +344,33 @@ padding-right: 10px;
     padding-left: 6.6%;
     color: var(--primary-color);
 }
-
 .date {
     color: rgb(213, 209, 209);
-
     padding-top: 30px;
 }
-
 .fifthheading {
     font-weight: 200px;
     font-size: larger;
     padding-top: 30px;
     padding-bottom: 20px;
 }
-
 .fifthparagraph {
     padding-top: 65px;
     color: rgb(96, 95, 95);
 }
-
 
 /*6th div/////////////////////////////////////*/
 .sixthdiv {
     background-color: var(--secondary-color);
     gap: 20px;
     padding: 13.33%;
-
     justify-content: space-between;
-
 }
-
 .box61 {
-
     font-size: 30px;
     text-align: center;
     font-weight: 100px;
-
-
 }
-
 .box62 {
     width: 80%;
     margin: 0 auto;
@@ -487,7 +379,6 @@ padding-right: 10px;
     white-space: normal;
     display: flex;
 }
-
 .box622 {
     justify-content: space-between;
     gap: 40px;
@@ -495,7 +386,6 @@ padding-right: 10px;
     height: 30Spx;
     padding-bottom: 20px;
 }
-
 .img51 {
     background-image: url("person_1.jpg.webp");
     background-size: 100% 100%;
@@ -503,9 +393,7 @@ padding-right: 10px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
-
 }
-
 .img52 {
     background-image: url("person_2.jpg.webp");
     background-size: 100% 100%;
@@ -513,9 +401,7 @@ padding-right: 10px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
-
 }
-
 .img53 {
     background-image: url("person_3.jpg.webp");
     background-size: 100% 100%;
@@ -523,82 +409,58 @@ padding-right: 10px;
     width: 50px;
     height: 50px;
     border-radius: 50%;
-
 }
-
 .type6 {
     color: var(--primary-color);
 }
-
 .sixthh1 {
     color: var(--primary-color);
 }
-
 .sign {
-
     color: var(--primary-color);
 }
 
 /*7th div/////////////////////////////////////*/
-
 .seventhdiv {
     gap: 20px;
     padding: 13.34%;
-
     background-color: var(--quaternary-color);
     justify-content: center;
-
 }
-
-
 .box71 {
     text-align: center;
     width: 1100px;
     font-size: 20px;
     padding-left: 10%;
 }
-
 .head71 {
-
     padding-bottom: 20px;
     padding-right: 40px;
     font-style: italic;
     color: var(--primary-color);
     text-align: center;
 }
-
 .head7 {
-
     font-size: 20px;
     padding-top: 20px;
     font-style: italic;
     color: var(--primary-color);
-
 }
-
 .para7 {
     color: var(--primary-color);
-
 }
-
 .box72 {
-
     display: flex;
     gap: 40px;
     padding: 40px;
 }
-
 .type7 {
     display: flex;
     justify-content: space-between;
-
 }
-
 .review {
     color: rgb(138, 137, 137);
-
 }
-
 .img61 {
     background-image: url("slider-6.jpg.webp");
     background-size: 100% 100%;
@@ -606,7 +468,6 @@ padding-right: 10px;
     width: 250px;
     height: 200px;
 }
-
 .img62 {
     background-image: url("img_2.jpg.webp");
     background-size: 100% 100%;
@@ -614,7 +475,6 @@ padding-right: 10px;
     width: 250px;
     height: 200px;
 }
-
 .img63 {
     background-image: url("img_3.jpg.webp");
     background-size: 100% 100%;
@@ -622,7 +482,6 @@ padding-right: 10px;
     width: 250px;
     height: 200px;
 }
-
 .img64 {
     background-image: url("slider-1.jpg");
     background-size: 100% 100%;
@@ -630,17 +489,13 @@ padding-right: 10px;
     width: 250px;
     height: 200px;
 }
-
 .star {
-
     background-image: url("stars.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 60px;
     height: 15px;
-
 }
-
 /*8th div/////////////////////////////////////*/
 .eigthdiv {
     background-color: black;
@@ -650,36 +505,26 @@ padding-right: 10px;
     padding-bottom: 90px;
     justify-content: space-around;
     color: rgb(184, 182, 182);
-
-
 }
-
 .box81 {
     display: flex;
     gap: 40px;
     justify-content: center;
     align-content: center;
 }
-
 .head8 {
     color: white;
-
 }
-
 .head88 {
     color: white;
-
 }
-
 .line {
     background-image: url("white line.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     max-width: 950px;
     height: 10px;
-
 }
-
 .img71 {
     background-image: url("telegram.png");
     background-size: 100% 100%;
@@ -687,37 +532,29 @@ padding-right: 10px;
     width: 20px;
     height: 20px;
 }
-
 .img72 {
     background-image: url("socialmedia.png");
     background-repeat: no-repeat;
     width: 170px;
     height: 65px;
-
 }
-
 .last {
     justify-content: center;
     align-self: center;
     padding-left: 33.33%;
 }
-
 .box82 {
     justify-content: center;
     padding-top: 20px;
 }
-
 .text8 {
  text-align: center;
-    padding-top: 50px;
+ padding-top: 50px;
 }
 
 .box812 {
     display: flex;
-    /* justify-content: space-between; */
-
 }
-
 #textbox {
     height: 20px;
     background-color: black;
@@ -728,12 +565,10 @@ padding-right: 10px;
     border-right-color: transparent;
     border-bottom-color: rgb(255, 255, 255);
 }
-
 .dark2 {
     display: none;
     font-size: 15px;
 }
-
 .navbar .darkedit:hover .dark2 {
     display: grid;
     background-color: var(--primary-color);
@@ -750,7 +585,6 @@ padding-right: 10px;
     /* border:1px white solid; */
     background-color:white;
     text-decoration: none;
-   
 }
 .btn1{
     width: 80px;
@@ -760,60 +594,45 @@ padding-right: 10px;
 }
 .btn a{
     text-decoration: none;
-
 }
 .fade-out {
     opacity: 0;
     visibility: hidden;
 }
-@media (max-width: 500px) {
 
+@media (max-width: 450px) {
     .biggestdivever {
-        width: 500px;
-
+        width: 440px;
     }
-
     .firstdiv {
         height: 500px;
-        width: 500px;
-
+        width: 440px;
     }
-
     .navbar {
-        width: 485px;
-
+        width: 435px;
     }
-
     .heading {
         font-size: 50px;
         padding-top: 230px;
     }
-
     .heading:hover {
         font-size: 65px;
         padding-top: 230px;
-
     }
-
     .hepta {
         padding-left: 5px;
         font-size: 20px;
         padding-top: 10px;
     }
-
     .list2 {
         padding-right: 40px;
-
     }
-
     #icon11 {
         display: block;
     }
-
     .navbar .list2 {
         display: none;
     }
-
     .navbar .list:hover .list2 {
         display: grid;
         background-color: var(--primary-color);
@@ -824,58 +643,42 @@ padding-right: 10px;
         text-align: center;
         border-radius: 15%;
     }
-
-
     /* ////////////////////*/
     .seconddiv {
         flex-direction: column;
         display: flex;
         padding: 100px;
-
-
     }
-
-
     .img2 {
         max-height: 200px;
         max-width: 350px;
         min-height: 100px;
         min-width: 200px;
     }
-
     .text {
         max-height: 350px;
         max-width: 350px;
-
         min-height: 200px;
         min-width: 200px;
     }
-
-
     .div2text {
         padding-top: 50px;
         font-weight: 200;
         font-size: 20px;
-
     }
-
     .secondpara {
         padding-top: 15px;
         font-size: 15px;
     }
-
     /* 3rd div////////////////////////////////////////*/
     .thirddiv {
         padding: 20px;
-
     }
-
     .box1 {
         width: 600px;
         padding-right: 200px;
         padding-left: 0;
     }
-
     .thirddivpart2 {
         display: grid;
 
@@ -883,60 +686,36 @@ padding-right: 10px;
         align-items: stretch;
         align-content: center;
         gap: 20px;
-
     }
 
     .thirddivh1 {
         font-size: 35px;
     }
-
-
     .box {
         padding-left: 40px;
-
     }
-
-
     .txtdiv3 {
         font-size: 30px;
-
     }
-
-
-
     /*fifth div/////////////////////////////////////*/
-
-
-
     .boxcontainer {
         flex-direction: column;
         display: flex;
-
     }
-
     .fifthpara {
-
         font-size: 15px;
-
     }
-
     .fifthh1 {
         padding-right: 100px;
         font-size: 40px;
         padding-left: 30px;
         width: 350px;
     }
-
     .fifthh1:hover {
         font-size: 60px;
         padding-right: 50px;
     }
-
-
-
     /*6th div/////////////////////////////////////*/
-
-
     .box62 {
         width: 80%;
         margin: 0 auto;
@@ -945,53 +724,38 @@ padding-right: 10px;
         white-space: normal;
         flex-direction: column;
         display: flex;
-
     }
-
     /*7th div/////////////////////////////////////*/
-
-
     .seventhdiv {
         gap: 10px;
     }
-
-
     .box71 {
         width: 400px;
         font-size: 15px;
         padding-right: 105px;
         padding-left: 30px;
     }
-
     .box72 {
         flex-direction: column;
         display: flex;
     }
-
     /*8th div/////////////////////////////////////*/
-
     .box81 {
         flex-direction: column;
         display: flex;
         padding-left: 40px;
     }
-
     .last {
         justify-content: start;
         padding-right: 300px;
         padding-left: 20%;
-
     }
-
     .box82 {
         justify-content: start;
         padding-top: 20px;
     }
-
     .text8 {
         padding-top: 20px;
         padding-right: 20%;
-
     }
-
 }
