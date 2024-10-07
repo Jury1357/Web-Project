@@ -600,13 +600,13 @@ html {
     visibility: hidden;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 470px) {
     .biggestdivever {
-        width: 440px;
+        width: 450px;
     }
     .firstdiv {
         height: 500px;
-        width: 440px;
+        width: 450px;
     }
     .navbar {
         width: 435px;
