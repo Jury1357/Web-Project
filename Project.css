@@ -263,7 +263,7 @@ html {
 }
 .thirddivpara {
     color: var(--primary-color);
-    font-size: 20px;
+    font-size: 18px;
     max-width: 1000px;
     color: var(--primary-color);
 }
@@ -600,7 +600,7 @@ html {
     visibility: hidden;
 }
 
-@media (max-width: 470px) {
+@media (max-width: 500px) {
     .biggestdivever {
         width: 500px;
     }
@@ -681,15 +681,13 @@ html {
     }
     .thirddivpart2 {
         display: grid;
-
         grid-template-columns: 1fr;
         align-items: stretch;
         align-content: center;
         gap: 20px;
     }
-
     .thirddivh1 {
-        font-size: 35px;
+        font-size: 33px;
     }
     .box {
         padding-left: 40px;
