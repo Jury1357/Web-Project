@@ -609,7 +609,7 @@ html {
         width: 450px;
     }
     .navbar {
-        width: 435px;
+        width: 500px;
     }
     .heading {
         font-size: 50px;
@@ -679,7 +679,10 @@ html {
         padding-right: 200px;
         padding-left: 0;
     }
-    .thirddivpart2 {
+  .thirddivpara {
+    font-size:16px;
+    }
+     .thirddivpart2 {
         display: grid;
         grid-template-columns: 1fr;
         align-items: stretch;
