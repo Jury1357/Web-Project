@@ -602,7 +602,7 @@ html {
 
 @media (max-width: 500px) {
     .biggestdivever {
-        width: 500px;
+        width:550px;
     }
     .firstdiv {
         height: 500px;
